@@ -1,0 +1,2 @@
+echo  "toyota" > atos.txt
+echo "toyota" > autos.txt 
